@@ -1,0 +1,18 @@
+
+body {
+    background-color: #ECF0F1;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Styling links with hover effect */
+a {
+    color: #3498DB;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #2C3E50;
+    text-decoration: underline;
+}
